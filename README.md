@@ -8,5 +8,18 @@ I have learnt alot, ranging from Excel to SQL and now I am on this journey, lear
 
 ### Project overview
 
+ ### Data sources
+ ### Tools used
+  - Google form [download] (https://docs.google.com)
+     - for data collection
+  - Ms Excel
+      - for Data Cleaning
+  - SQL server
+     - for querring and analysis
+  - POwerBI
+     - for creating report
+  - Ms Powerpoint
+      - for presentation
+
 
 
