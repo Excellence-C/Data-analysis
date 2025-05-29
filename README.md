@@ -10,10 +10,11 @@ I have learnt alot, ranging from Excel to SQL and now I am on this journey, lear
 
  ### Data sources
  ### Tools used
-  - Google form [download] (https://docs.google.com)
+  - Google form (download)(https://docs.google.com)
      - for data collection
-  - Ms Excel
-      - for Data Cleaning
+  - Ms Excel (download)
+     - for Data Cleaning
+       1. by manipulation
   - SQL server
      - for querring and analysis
   - POwerBI
